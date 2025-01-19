@@ -1,4 +1,4 @@
-<h4 align="left">I am a passionate MERN stack developer currently pursuing my Master's in Computer Applications (MCA) from Tezpur University. My journey in the world of computer science has been an exciting exploration of creativity and problem-solving.</h4>
+<h4 align="left">I am a passionate Mobile heavy Full stack developer SDE-1. My journey in the world of computer science has been an exciting exploration of creativity and problem-solving.</h4>
 
 ###
 
